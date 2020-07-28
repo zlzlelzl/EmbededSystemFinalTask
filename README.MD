@@ -1,1 +1,1 @@
-# 임베디드 시스템 기말 과제
+# Embeded System Final Task
